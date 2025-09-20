@@ -1,0 +1,6 @@
+Sold 2 Pizza for 340.00
+Sold 2 Chicken_fry for 240.00
+Sold 3 Water for 60.00
+Sold 2 Ice_tea for 60.00
+Sold 3 Burger for 180.00
+Sold 7 Water for 140.00
